@@ -1,0 +1,54 @@
+.div1{
+    float: left;
+    width: 60%;
+    height: 600px;
+    box-shadow: 10px 10px 10px 10px red;
+}
+.img1{
+    box-shadow: 10px 10px 10px 10px red;
+    
+}
+.img2{
+    box-shadow: 10px 10px 10px 10px red;
+    margin: 2px 2px 2px 30px;
+}
+.img3{
+    box-shadow: 10px 10px 10px 10px red;
+    margin: 2px 2px 2px 70px; 
+     
+}
+tablet tr,td{
+    border-collapse: collapse;
+}
+
+ul{
+    list-style: circle;
+    background-color: rgb(146, 134, 120);
+    margin: 10px 100px 50px 100px;
+    list-style-position: inside;
+}
+
+ol{
+    list-style: circle;
+    background-color: aqua;
+    margin: 10px 20px 50px 10px;
+    list-style-position: inside;
+}
+table{
+    border: 1px solid;
+}
+.coffee{
+    list-style: circle;
+    background-color: rgb(146, 134, 120);
+    
+}
+.cola{
+    list-style: circle;
+    background-color: rgb(146, 134, 120);
+    
+}
+.tea{
+    list-style: circle;
+    background-color: rgb(146, 134, 120);
+    
+}
